@@ -23,7 +23,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "^16.8.6",
     "webpack": "^4.32.2",
     "webpack-cli": "^3.3.2",
